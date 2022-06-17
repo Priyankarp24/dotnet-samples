@@ -22,7 +22,7 @@ namespace DriveV2SnippetsTest
   public class FetchChangesTest : BaseTest
   {
     //TODO(developer) - Provide absolute path of the file
-    private string filePath = "/home/priyanka/Desktop/WorkSpace/drive/snippets/drive_v2/files/photo.jpg";
+    private string filePath = "files/photo.jpg";
 
     [Test]
     public void TestFetchChanges()
